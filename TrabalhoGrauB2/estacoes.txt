@@ -1,0 +1,116 @@
+----- RELATÓRIO SUBIDA E DESCIDA PASSAGEIROS NAS ESTAÇÕES -----
+* ESTAÇÃO 1:
+- Desceram 71 passageiros
+- Subiram 79 passageiros
+
+* ESTAÇÃO 2:
+- Desceram 58 passageiros
+- Subiram 50 passageiros
+
+* ESTAÇÃO 3:
+- Desceram 73 passageiros
+- Subiram 79 passageiros
+
+* ESTAÇÃO 4:
+- Desceram 75 passageiros
+- Subiram 85 passageiros
+
+* ESTAÇÃO 5:
+- Desceram 50 passageiros
+- Subiram 56 passageiros
+
+* ESTAÇÃO 6:
+- Desceram 83 passageiros
+- Subiram 68 passageiros
+
+* ESTAÇÃO 7:
+- Desceram 43 passageiros
+- Subiram 53 passageiros
+
+* ESTAÇÃO 8:
+- Desceram 44 passageiros
+- Subiram 46 passageiros
+
+* ESTAÇÃO 9:
+- Desceram 53 passageiros
+- Subiram 63 passageiros
+
+* ESTAÇÃO 10:
+- Desceram 54 passageiros
+- Subiram 44 passageiros
+
+* ESTAÇÃO 11:
+- Desceram 52 passageiros
+- Subiram 40 passageiros
+
+* ESTAÇÃO 12:
+- Desceram 45 passageiros
+- Subiram 45 passageiros
+
+* ESTAÇÃO 13:
+- Desceram 44 passageiros
+- Subiram 46 passageiros
+
+* ESTAÇÃO 14:
+- Desceram 16 passageiros
+- Subiram 38 passageiros
+
+* ESTAÇÃO 15:
+- Desceram 27 passageiros
+- Subiram 33 passageiros
+
+* ESTAÇÃO 16:
+- Desceram 34 passageiros
+- Subiram 32 passageiros
+
+* ESTAÇÃO 17:
+- Desceram 43 passageiros
+- Subiram 53 passageiros
+
+* ESTAÇÃO 18:
+- Desceram 45 passageiros
+- Subiram 41 passageiros
+
+* ESTAÇÃO 19:
+- Desceram 27 passageiros
+- Subiram 39 passageiros
+
+* ESTAÇÃO 20:
+- Desceram 40 passageiros
+- Subiram 36 passageiros
+
+* ESTAÇÃO 21:
+- Desceram 53 passageiros
+- Subiram 45 passageiros
+
+* ESTAÇÃO 22:
+- Desceram 62 passageiros
+- Subiram 52 passageiros
+
+* ESTAÇÃO 23:
+- Desceram 68 passageiros
+- Subiram 80 passageiros
+
+* ESTAÇÃO 24:
+- Desceram 68 passageiros
+- Subiram 62 passageiros
+
+* ESTAÇÃO 25:
+- Desceram 61 passageiros
+- Subiram 66 passageiros
+
+* ESTAÇÃO 26:
+- Desceram 55 passageiros
+- Subiram 67 passageiros
+
+* ESTAÇÃO 27:
+- Desceram 90 passageiros
+- Subiram 86 passageiros
+
+* ESTAÇÃO 28:
+- Desceram 77 passageiros
+- Subiram 64 passageiros
+
+* ESTAÇÃO 29:
+- Desceram 78 passageiros
+- Subiram 62 passageiros
